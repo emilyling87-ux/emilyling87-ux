@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ling Li — Data Analytics Portfolio
 
-<!--
-**emilyling87-ux/emilyling87-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst with a background in supply chain operations and performance analysis.  
+Focused on KPI design, operational insights, and dashboard storytelling.
 
-Here are some ideas to get you started:
+**Skills:** SQL (BigQuery) · Python · Power BI · Looker Studio · Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### 1) Olist — Delivery Reliability Analysis
+**Question:** Does high SLA compliance reflect true on-time reliability?
+- Redesigned delivery KPIs (Early / Tight On-time / Late)
+- Found SLA compliance is inflated by systematic early deliveries
+- Linked delivery timing to customer satisfaction
+👉 Repo: (add link after you create it)  
+👉 Dashboard: https://lookerstudio.google.com/reporting/c0ef3eb4-75c8-497a-9b7e-03b593a42f11
+
+---
+
+### 2) SF Muni — Transit Reliability (Le Wagon)
+**Question:** How can transit resources be reallocated to improve reliability?
+- Route-level and system-level reliability analysis
+- Identified underperforming routes and time-based patterns
+- Built dashboards for operational insights
+👉 Repo: (add link after you create it)  
+👉 Dashboard: https://lookerstudio.google.com/reporting/45a126c0-81d1-462b-8edf-7d3318792e89
+
+---
+
+## Contact
+- LinkedIn: www.linkedin.com/in/ling-li-data
+- Email: emily.ling87@gmail.com
