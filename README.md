@@ -35,4 +35,3 @@ Focused on KPI design, operational insights, and dashboard storytelling.
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/ling-li-data
-- Email: emily.ling87@gmail.com
