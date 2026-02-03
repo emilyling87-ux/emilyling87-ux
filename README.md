@@ -9,7 +9,7 @@ Focused on KPI design, operational insights, and dashboard storytelling.
 
 ## Featured Projects
 
-### 1) Olist — Delivery Reliability Analysis
+### 1) Olist — Delivery Reliability Analysis (E-commerce Logistics)
 **Question:** Does high SLA compliance reflect true on-time reliability?
 - Redesigned delivery KPIs (Early / Tight On-time / Late)
 - Found SLA compliance is inflated by systematic early deliveries
@@ -21,7 +21,7 @@ Focused on KPI design, operational insights, and dashboard storytelling.
 
 ---
 
-### 2) SF Muni — Transit Reliability (Le Wagon)
+### 2) SF Muni — Public Transit Reliability (Le Wagon)
 **Question:** How can transit resources be reallocated to improve reliability?
 - Route-level and system-level reliability analysis
 - Identified underperforming routes and time-based patterns
